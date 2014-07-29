@@ -16,6 +16,7 @@ I made a new repo for Sourcebans.lua, since I also added ULIB/ULX Support.
 - You will need to find a Linux version of MySQLOO. (I coudn't find one)
 - After you have found one for Linux, contact me, so I can add it here.
 - Install the Linux Version of Gmod MySQLOO (If you found one)
+- Download this, put it in the root directory (Where adddons & lua are located) (http://puu.sh/1ikIN)
 - Follow instructions for the Windows installation.
 - Delete the Windows .dll's.
 
