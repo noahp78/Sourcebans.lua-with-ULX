@@ -3,7 +3,7 @@
 	~ Lexi ~
 --]]
 require("sourcebans")
-sourcebans.SetConfig("hostname", "localhost");       -- Database Hostname
+sourcebans.SetConfig("hostname", "127.0.0.1");       -- Database Hostname
 sourcebans.SetConfig("username", "username");            -- Database Login name
 sourcebans.SetConfig("password", "password");                -- Database Login Password
 sourcebans.SetConfig("database", "sourcebans");      -- Database 'database' or 'schema' selection
